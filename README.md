@@ -1,17 +1,18 @@
 <div align="center">
 
-# Hey, I'm Silentrose 👋
+# Hi, 👋   I'm Christine 
+💗
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Developer+in+Progress;Java+%7C+JavaScript+%7C+Python;Building+Practical+Software;Learning+by+Building;Turning+Ideas+into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer+in+Progress;Building+Practical+Solutions;Learning+by+Building;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/christine-githambo-474865367">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Silentrose23">
-    <img src="https://img.shields.io/badge/GitHub-Silentrose23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<br>
+💗
+<a href="https://www.linkedin.com/in/christine-githambo-474865367">
+<img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Silentrose23">
+<img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+</a>💗
 
 </div>
 
@@ -19,17 +20,17 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm **Christine**, a software development learner who enjoys building practical applications and understanding how they work from the ground up.
+I'm a software developer focused on building practical applications, solving problems through code, and continuously improving how I design and structure software.
 
-My current focus is **Java, software development fundamentals, Git/GitHub, and backend-oriented projects**.
+I enjoy turning ideas into working systems, breaking complex problems into manageable pieces, and learning through hands-on development.
 
-I learn by building, testing, debugging, and improving.
+My goal is to build software that is useful, maintainable, and capable of solving real-world problems.
 
 ### What Drives Me
 
-I enjoy turning an idea into something that actually works.
+I'm passionate about learning by building.
 
-For me, coding isn't just about writing code. It's about breaking a problem down, finding a solution, testing it, and learning from what goes wrong.
+I believe strong development comes from understanding the problem, designing a solution, testing it, finding what breaks, and improving it until it works well.
 
 ---
 
@@ -37,155 +38,147 @@ For me, coding isn't just about writing code. It's about breaking a problem down
 
 ### 🧾 Java POS System
 
-**Point of Sale & Inventory Management**
+A practical Point of Sale and Inventory Management system built around real retail workflows.
 
-A Java-based POS system built to manage products, inventory, cashier sales, shopping carts, payments, receipts, and saved product data.
-
-**Highlights**
+**Features**
 
 * Cashier checkout
-* Inventory management
 * Cart management
+* Inventory management
 * Stock validation
-* Payment and change
+* Payment processing
+* Change calculation
 * Receipt generation
-* Product search, update and deletion
-* CSV data persistence
+* Product search and management
+* Persistent inventory storage
 
-**Tech:** Java • OOP • ArrayList • File Handling • CSV • Git
-
-[**View POS-System →**](https://github.com/Silentrose23/POS-System)
+[**View Project →**](https://github.com/Silentrose23/POS-System)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" height="50">
-<img src="https://skillicons.dev/icons?i=javascript" height="50">
-<img src="https://skillicons.dev/icons?i=python" height="50">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Web
+### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" height="50">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,nodejs,python" />
 </p>
 
-### Tools
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,bash,vscode,idea" height="50">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
+
+### ☁️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,idea" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+```java
+const silentrose = {
+    role: "Software Developer",
+    focus: [
+        "Application Development",
+        "Backend Systems",
+        "Full-Stack Development",
+        "Problem Solving"
+    ],
+    building: [
+        "Practical applications",
+        "Portfolio projects",
+        "Real-world software solutions"
+    ],
+    improving: [
+        "System design",
+        "Code quality",
+        "Debugging",
+        "Project architecture"
+    ],
+    goal: "Build useful software and grow into a strong full-stack developer"
+};
+```
+
+---
+
+## 🔨 What I'm Building
+
+I’m building projects that help me move from learning concepts to understanding how complete software systems are designed and developed.
+
+My approach is simple:
+
+```text
+Learn → Build → Test → Debug → Improve → Repeat
+```
+
+---
+
+## 🎯 What's Next
+
+* Build stronger full-stack applications
+* Work with APIs and databases
+* Improve system architecture and code quality
+* Build software with real-world use cases
+* Collaborate on meaningful projects
+* Contribute to open-source and developer communities
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silentrose23&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silentrose23&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Silentrose23&show_icons=true&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silentrose23&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Silentrose23&theme=github-compact&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🧠 Current Focus
+## 🌱 Beyond Code
 
-```java
-const developer = {
-    identity: "Software Developer in Progress",
+I enjoy creativity, storytelling, voice work, and exploring new ideas.
 
-    focus: [
-        "Java",
-        "Object-Oriented Programming",
-        "Git & GitHub",
-        "Problem Solving"
-    ],
-
-    learning: [
-        "Backend Development",
-        "Data Structures",
-        "File Handling",
-        "Software Architecture"
-    ],
-
-    building: [
-        "Java POS System",
-        "Practical Java Projects",
-        "Portfolio Projects"
-    ],
-
-    mindset: "Learn → Build → Test → Debug → Improve"
-};
-```
-
----
-
-## 🌱 My Development Journey
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Test
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Build Again
-```
-
-I'm focusing on building projects that demonstrate what I can actually do rather than simply collecting tutorials.
-
----
-
-## 🎯 What I'm Working Toward
-
-* Stronger Java and backend development skills
-* Better software architecture and project structure
-* More practical full-stack projects
-* Stronger Git and collaborative development habits
-* Building software that solves real problems
-
----
-
-## 🎙️ Beyond Code
-
-Technology isn't my only creative outlet.
-
-I'm also interested in **voice-over, narration, storytelling, and creative performance**.
-
-That creative side influences how I approach software too: communicate clearly, understand the audience, and turn ideas into something people can actually use.
+I believe creativity and technology work well together — both are about taking an idea and turning it into something real.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in learning, building, collaborating, and connecting with other people in tech.
+I'm open to collaboration, learning opportunities, interesting projects, and connecting with other developers.
 
-<p>
-  <a href="https://www.linkedin.com/in/christine-githambo-474865367">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Silentrose23">
-    <img src="https://img.shields.io/badge/GitHub-Silentrose23-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/christine-githambo-474865367">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Silentrose23">
+<img src="https://img.shields.io/badge/GitHub-Silentrose23-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### Building. Learning. Improving.
+### 💗 Build. Learn. Create.💗
+       💗
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EC4899&height=100&section=footer" />
 
 </div>
