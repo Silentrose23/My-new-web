@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="350" height="309" alt="Image" src="https://github.com/user-attachments/assets/d530287f-65a9-479c-b6fb-d31b62e42e52" />
+
 # Hi, 👋   I'm Christine 
 💗
 
